@@ -835,6 +835,7 @@ a {
   height: 1086px;
   background: #CFE3E8;
   padding-top: 30px;
+   overflow: hidden;
 }
 .fifth-section__container {
   position: relative;
@@ -934,6 +935,7 @@ a {
 .footer {
   background: #CFE3E8;
   height: 250px;
+   overflow: hidden;
 }
 .footer__container {
   position: relative;
