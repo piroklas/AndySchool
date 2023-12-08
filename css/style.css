@@ -972,24 +972,3 @@ a {
 .menu-list__item:last-child, .courses-list__item:last-child {
   margin-bottom: 0px;
 }
-
-@media (max-width: 1199px) {
-  .main-container {
-    max-width: 960px;
-  }
-}
-@media (max-width: 991px) {
-  .main-container {
-    max-width: 720px;
-  }
-}
-@media (max-width: 767px) {
-  .main-container {
-    max-width: 540px;
-  }
-}
-@media (max-width: 575px) {
-  .main-container {
-    max-width: 100%;
-  }
-}
